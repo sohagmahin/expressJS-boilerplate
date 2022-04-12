@@ -1,11 +1,26 @@
-# expressJS-boilerplate
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+# ExpressJS-boilerplate
 
-ExpressJS boilerplate with basic authentication functionality.
+ExpressJS boilerplate with basic auth functionality.
 
-## Signup schema
+### Signup schema
 
-`{ "name": "sohag", "username": "sohagmahin", "password": "123456" }`
+```
+{ 
+  "name": "sohag", 
+  "username": "sohagmahin", 
+  "password": "123456" 
+ }
+```
 
-## Login Schema
+### Login Schema
 
-` "username": "sohagmahin", "password": "123456"`
+```
+{ 
+  "username": "sohagmahin", 
+  "password": "123456" 
+ }
+```
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
